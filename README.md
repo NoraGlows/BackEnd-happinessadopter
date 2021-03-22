@@ -1,8 +1,11 @@
 # Happiness Adopter
-Our project is considered as an Animal adopter website. You can choose any pets available and adopt it, then will be a happy person!
+Our website aims to give a place to the pets whom their owners can't take care of them anymore,
+so instead of being abandoned the pet can find a new home and a new owner.
+The Website also provides a page for announcements, so if you have lost your pet you can make an announcement,
+and anyone who can help well contact you.
 
 # Front-end Repository
-[Happiness Adopter](https://git.generalassemb.ly/xlightx/FrontEnd-happinessadopter)
+[Happiness Adopter](https://github.com/NoraGlows/FrontEnd-happinessadopter.git)
 
 
 # Our Website links
